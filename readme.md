@@ -13,10 +13,18 @@
 ---
 
 ## 🛠 Tech Stack
-- Backend: Go, Laravel
-- Frontend: React, React Native
-- Database: MySQL
+- Backend: Go, Laravel, Java, CodeIgniter 3
+- Frontend: React, React Native, Laravel, CodeIgniter 3
+- Database: MySQL, PostgreSQL, Supabase
 - Tools: Git, Postman
+
+---
+
+## 💡 Skills
+- **Languages:** Java, Go, JavaScript
+- **Frameworks:** Quarkus, Laravel, React, CodeIgniter 3
+- **Libraries:** Redux, Tailwind, Bootstrap
+- **Tools:** Kafka, GraphQL, Gin (Go)
 
 ---
 
@@ -24,6 +32,8 @@
 - Improving system design
 - Building real-world scalable apps
 - Learning deeper backend architecture
+- Exploring PostgreSQL & Supabase
+- Exploring Quarkus for microservices
 
 ---
 
