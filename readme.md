@@ -43,4 +43,4 @@
 ---
 
 ## 🤝 Let's Connect
-- 📧 Email: your@email.com
+- 📧 Email: rodyulo20@gmail.com
